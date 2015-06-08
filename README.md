@@ -1,9 +1,13 @@
 # GSOC Proposal submiited under KDE for GCompris.
 
-Name				        :Sagar Chand Agarwal
-Email Id		        :atomsagar@gmail.com
-Freenode IRC Nick		:sagaragarwal94
-Location			      :Jaipur,India,+5.30 GMT
+####Name				
+Sagar Chand Agarwal  
+####Email Id		        
+atomsagar@gmail.com  
+####Freenode IRC Nick		
+sagaragarwal94  
+####Location		
+Jaipur,India,+5.30 GMT  
 
 #####Proposal Title    : Port of GCompris in Qt Quick
 #####Mentor       	    :Bruno Coudoin < bruno.coudoin@gcompris.net >
