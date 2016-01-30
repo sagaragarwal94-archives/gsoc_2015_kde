@@ -1,4 +1,4 @@
-# GSOC Proposal submiited under KDE for GCompris.
+# GSOC Proposal  for GCompris.
 
 ####Name				
 Sagar Chand Agarwal  
